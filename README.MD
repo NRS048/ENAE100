@@ -1,4 +1,4 @@
-Do not share these files, do not link this repo, thanks.
+This is a repo to share code within the group, in order to complete our collaborative project.
 
 -N
 
