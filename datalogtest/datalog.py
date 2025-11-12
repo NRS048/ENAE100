@@ -1,6 +1,6 @@
 import serial, re, os, time, json
 
-ser = serial.Serial('COM11', 9600)  # open serial port
+ser = serial.Serial('COM12', 9600)  # open serial port
 print(ser.name, "\n")
 
 absolute_path = os.path.dirname(os.path.abspath(__file__))
